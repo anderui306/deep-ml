@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-07T14:50:38.879Z",
+  "items": {
+    "math:101": {
+      "kind": "math",
+      "id": "101",
+      "title": "Simpson's Paradox and Confounding",
+      "difficulty": "easy",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/101",
+      "path": "math/0101-simpson-s-paradox-and-confounding",
+      "first_solved_at": "2026-10-07T14:50:26.967Z",
+      "last_pushed_at": "2026-10-07T14:50:26.967Z"
+    }
+  }
+}
