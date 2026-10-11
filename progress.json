@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:50:38.879Z",
+  "generated_at": "2026-10-11T03:20:49.464Z",
   "items": {
     "math:101": {
       "kind": "math",
@@ -11,6 +11,19 @@
       "path": "math/0101-simpson-s-paradox-and-confounding",
       "first_solved_at": "2026-10-07T14:50:26.967Z",
       "last_pushed_at": "2026-10-07T14:50:26.967Z"
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-11T03:20:37.202Z",
+      "last_pushed_at": "2026-10-11T03:20:37.202Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
